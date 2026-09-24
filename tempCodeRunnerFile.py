@@ -1,2 +1,1 @@
-for i in lst:
-        sum_lst += i
+"String", True, 3.3, 1
